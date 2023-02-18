@@ -1,5 +1,5 @@
 Hi👋
-I'm OYCHE - frontend developer
+I'm OYCHE, typescript developer.
 
 <!---
 MIliewski/MIliewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
